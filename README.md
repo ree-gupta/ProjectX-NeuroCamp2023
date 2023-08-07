@@ -10,3 +10,4 @@
 4. Direct Current to a single neuron [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ree-gupta/ProjectX-NeuroCamp2023/blob/master/04-Direct_current_single_neuron.ipynb)
 5. Small networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ree-gupta/ProjectX-NeuroCamp2023/blob/master/05-Small_network.ipynb)
 6. Basal Ganglia - Introduction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ree-gupta/ProjectX-NeuroCamp2023/blob/master/06-Basal_ganglia_introduction.ipynb)
+7. Basal Ganglia - Modelling Direct and Indirect Pathway [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ree-gupta/ProjectX-NeuroCamp2023/blob/master/07-Basal_ganglia_pathway_models.ipynb)

@@ -9,7 +9,7 @@
 
 ## Online Courses:
 
-- [Neuromatch Academy - COmputational Neuroscience Lectures](https://compneuro.neuromatch.io/tutorials/intro.html)
+- [Neuromatch Academy - Computational Neuroscience Lectures](https://compneuro.neuromatch.io/tutorials/intro.html)
 
 - Coursera has a course named "Computational Neuroscience" offered by the University of Washington. It provides a good introduction to the field.
 
@@ -20,4 +20,9 @@
 ## Meta Resources:
 
 - [Open Computational Neuroscience Resources GitHub](https://github.com/asoplata/open-computational-neuroscience-resources)
-- 
+
+## DIY Neuroscience Kits and Project Ideas:
+
+- Backyard Brains - https://backyardbrains.com/
+- Upside Down Lab - https://linktr.ee/Upside_Down_Labs
+- Neuroscience projects for kids - https://faculty.washington.edu/chudler/introb.html 

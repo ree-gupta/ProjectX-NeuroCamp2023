@@ -20,6 +20,7 @@
 ## Meta Resources:
 
 - [Open Computational Neuroscience Resources GitHub](https://github.com/asoplata/open-computational-neuroscience-resources)
+- [Dana Foundation Resources for Outreach](https://dana.org/resources/)
 
 ## DIY Neuroscience Kits and Project Ideas:
 
